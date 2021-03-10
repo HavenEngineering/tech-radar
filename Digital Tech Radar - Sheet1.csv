@@ -1,0 +1,29 @@
+name,quadrant,ring,isNew,description
+DNS: Route53 Domain registration,Platforms,Adopt,TRUE,<p>name</p>
+DNS: Route53 Public hosted zone,Platforms,Adopt,TRUE,<p>name</p>
+DNS: Route53 Private hosted zone,Platforms,Adopt,TRUE,<p>name</p>
+ECR: Container Registry for Docker images,Platforms,Adopt,TRUE,<p>name</p>
+"ECR: Container registry, automated image scanning and reporting",Techniques,Assess,TRUE,<p>name</p>
+Certificate Manager: SSL/TLS Certificates,Platforms,Trial,TRUE,<p>name</p>
+Bourne Leisure independent network IP addressing and allocations,Techniques,Adopt,FALSE,<p>name</p>
+Virtual Private Cloud (VPC),Platforms,Adopt,TRUE,<p>name</p>
+Public Routing table,Techniques,Adopt,TRUE,<p>name</p>
+Private Routing table,Techniques,Adopt,TRUE,<p>name</p>
+Security Groups (Virtual Firewalls),Tools,Adopt,TRUE,<p>name</p>
+Internet Gateway,Tools,Adopt,TRUE,<p>name</p>
+NAT Gateway,Tools,Adopt,TRUE,<p>name</p>
+Central Infrastructure as Code (IAC),Techniques,Trial,TRUE,<p>name</p>
+Terraform server,languages-and-frameworks,Trial,TRUE,<p>name</p>
+"S3 buckets: IAC secure remote state backend, Spinnaker persistent storage",Techniques,Adopt,TRUE,<p>name</p>
+Elastic Kubernetes service (EKS),Platforms,Adopt,TRUE,<p>name</p>
+eksctl,Tools,Trial,TRUE,<p>name</p>
+Spinnaker: Continuous delivery platform (running in EKS),Tools,Trial,TRUE,<p>name</p>
+Load Balancers,Platforms,Adopt,TRUE,<p>name</p>
+Auto Scaling groups (With resource scheduling),Platforms,Adopt,TRUE,<p>name</p>
+EC2 instances,Platforms,Adopt,TRUE,<p>name</p>
+Elastic IPs,Platforms,Adopt,TRUE,<p>name</p>
+"Jenkins (master on EC2, slaves on Kubernetes)",Tools,Trial,TRUE,<p>name</p>
+Hal (tool for managing spinnaker. Deployed on EC2),Tools,Trial,TRUE,<p>name</p>
+AzureDevOps: IAC Git Repository,Platforms,Adopt,TRUE,<p>name</p>
+IP address management platform agreed,Platforms,Assess,TRUE,<p>name</p>
+Tech Radar,Tools,Trial,TRUE,<p>name</p>
